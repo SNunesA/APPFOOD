@@ -1,0 +1,11 @@
+{
+  "name": "APPFOOD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SNunesA/APPFOOD.git",
+  "author": "SNunesA <snunesadiers@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
